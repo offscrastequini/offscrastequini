@@ -1,164 +1,125 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,100:2563EB&text=Crastequini&fontColor=FFFFFF&fontSize=58&animation=fadeIn"/>
+# Hi, I'm Samuel Crastequini 👋
 
-# Hi there, I'm Crastequini 👋
+### Computer Engineering Student
 
-### Computer Engineering Student • Go Developer • Linux Enthusiast • DevOps & Cloud
+I'm a Computer Engineering student interested in software development, Linux, cloud technologies, and DevOps. I enjoy learning by building projects and exploring new technologies.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Backend+Developer;Go+Developer;Linux+Enthusiast;DevOps+%7C+Cloud+Computing;Always+Learning+Something+New"/>
+📧 **samcrastequini@gmail.com**
 
-<p>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=2563EB"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2563EB"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-crastequini-32034b313/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samcrastequini@gmail.com)
 
 </div>
 
 ---
 
-# About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Engineering student** passionate about software engineering, backend development, cloud computing, and infrastructure.
-
-I enjoy building reliable software, automating workflows, and continuously improving my technical skills through real-world projects.
-
-Currently, I'm focused on:
-
-* Go (Golang)
-* Linux
-* Docker
-* AWS
-* SQL
-* Git & GitHub
-* Computer Networks
-* DevOps
-* Cloud Computing
-* Cybersecurity Fundamentals
+- 🎓 Computer Engineering student
+- 💻 Interested in Backend Development, DevOps and Cloud Computing
+- 🐧 Linux user
+- 📚 Learning through personal and academic projects
+- 🚀 Always looking to improve my skills
 
 ---
 
-# Tech Stack
+## 💻 Tech Stack
 
-### Languages
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,python,c,cpp,bash"/>
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=go,python" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,nginx" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-### DevOps & Cloud
+### Scripting
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,nginx"/>
+  <img src="https://skillicons.dev/icons?i=bash" />
 </p>
 
-### Tools
+---
+
+## 🛠 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman"/>
-</p>
 
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Current Goals
-
-* Build scalable backend applications with Go
-* Improve DevOps and Cloud Engineering skills
-* Learn modern software architecture
-* Contribute to open-source projects
-* Develop automation and infrastructure tools
-
----
-
-# Featured Interests
-
-* Backend Development
-* Distributed Systems
-* Cloud Computing
-* DevOps
-* Linux
-* Cybersecurity
-* Computer Networks
-* Automation
-* Open Source
-
----
-
-# Currently Working On
-
-* REST APIs with Go
-* Dockerized applications
-* Linux automation scripts
-* Cloud infrastructure projects
-* Personal portfolio projects
-
----
-
-# Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/samuel-crastequini-32034b313/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:samcrastequini@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </p>
 
 ---
 
+## 🚀 What I Like Building
+
+- REST APIs
+- Backend applications
+- Linux environments
+- Automation with Shell scripts
+- Containerized applications
+- Database projects
+- Open-source projects
+
+---
+
+## 📖 Currently Learning
+
+- Go (Golang)
+- React
+- Docker
+- Kubernetes
+- AWS
+- DevOps
+- Software Architecture
+- Cybersecurity
+
+---
+
+## 🎯 Interests
+
+- Backend Development
+- DevOps
+- Cloud Computing
+- Linux
+- Software Engineering
+- Automation
+- Cybersecurity
+- Computer Networks
+
+---
+
+## 📫 Connect With Me
+
+- **Email:** samcrastequini@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/samuel-crastequini-32034b313/
+
+---
+
 <div align="center">
 
-### *"Building reliable software through continuous learning."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:0B1220"/>
+*"Keep learning. Keep building."*
 
 </div>
