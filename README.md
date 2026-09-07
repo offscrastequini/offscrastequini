@@ -49,7 +49,6 @@ I'm a Computer Engineering student interested in software development, Linux, cl
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
-  <img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=white" />
 </p>
 
 ### Scripting
