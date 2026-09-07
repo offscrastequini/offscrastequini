@@ -48,13 +48,17 @@ I'm a Computer Engineering student interested in software development, Linux, cl
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=white" />
 </p>
 
 ### Scripting
 
 <p>
-  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=bash,powershell" />
 </p>
 
 ---
@@ -68,6 +72,8 @@ I'm a Computer Engineering student interested in software development, Linux, cl
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF5C8A?style=for-the-badge)
 
 </p>
 
@@ -78,7 +84,7 @@ I'm a Computer Engineering student interested in software development, Linux, cl
 - REST APIs
 - Backend applications
 - Linux environments
-- Automation with Shell scripts
+- Automation with Shell and PowerShell scripts
 - Containerized applications
 - Database projects
 - Open-source projects
@@ -95,6 +101,7 @@ I'm a Computer Engineering student interested in software development, Linux, cl
 - DevOps
 - Software Architecture
 - Cybersecurity
+- PostgreSQL and Database Technologies
 
 ---
 
@@ -114,7 +121,7 @@ I'm a Computer Engineering student interested in software development, Linux, cl
 ## 📫 Connect With Me
 
 - **Email:** samcrastequini@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/samuel-crastequini-32034b313/
+- **LinkedIn:** [linkedin.com/in/samuel-crastequini-32034b313](https://www.linkedin.com/in/samuel-crastequini-32034b313/)
 
 ---
 
